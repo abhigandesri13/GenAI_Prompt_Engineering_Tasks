@@ -1,0 +1,10 @@
+Name: Priya Verma
+
+Skills:
+Python, Data Analysis, SQL
+
+Experience:
+1 year internship
+
+Tools:
+Python, Excel

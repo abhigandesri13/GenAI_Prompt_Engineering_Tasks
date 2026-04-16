@@ -1,0 +1,10 @@
+Name: Aman Gupta
+
+Skills:
+HTML, CSS, JavaScript
+
+Experience:
+Fresher
+
+Tools:
+VS Code

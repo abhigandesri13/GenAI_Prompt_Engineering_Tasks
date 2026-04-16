@@ -1,0 +1,10 @@
+Name: Rahul Sharma
+
+Skills:
+Python, Machine Learning, Data Analysis, SQL, Pandas, NumPy
+
+Experience:
+3 years as Data Scientist
+
+Tools:
+Python, Jupyter Notebook, Git
